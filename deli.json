@@ -1,6 +1,14 @@
 {
-    "Appetizers": [],
-    "Cold Sandwiches": [],
+    "Appetizers": [
+        "Cheese Sticks",
+        "Onion Rings",
+        "Fries"
+    ],
+    "Cold Sandwiches": [
+        "Turkey Sub",
+        "Ham",
+        "Tuna Fish"
+    ],
     "Hot Sandwiches": [],
     "Deserts": [],
     "Drinks": []
