@@ -9,7 +9,19 @@
         "Ham",
         "Tuna Fish"
     ],
-    "Hot Sandwiches": [],
-    "Deserts": [],
-    "Drinks": []
+    "Hot Sandwiches": [
+        "Philly Sub",
+        "Cheeseburger",
+        "Chicken Sandwich"
+    ],
+    "Deserts": [
+        "Peach Cobbler",
+        "Pound Cake",
+        "Ice  Cream"
+    ],
+    "Drinks": [
+        "Coconut Water",
+        "Almond Milk",
+        "Green Tea"
+    ]
 }
