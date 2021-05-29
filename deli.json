@@ -1,27 +1,29 @@
 {
-    "Appetizers": [
-        "Cheese Sticks",
-        "Onion Rings",
-        "Fries"
-    ],
-    "Cold Sandwiches": [
-        "Turkey Sub",
-        "Ham",
-        "Tuna Fish"
-    ],
-    "Hot Sandwiches": [
-        "Philly Sub",
-        "Cheeseburger",
-        "Chicken Sandwich"
-    ],
-    "Deserts": [
-        "Peach Cobbler",
-        "Pound Cake",
-        "Ice  Cream"
-    ],
-    "Drinks": [
-        "Coconut Water",
-        "Almond Milk",
-        "Green Tea"
-    ]
+    "Appetizers": [{
+        "Name": "Cheese Sticks",
+        "Ingredients": ["cheese", "seasoning", "bread crumbs"],
+        "Description": "Wonderful mozzarella sticks overflowing with chessy goodness"
+    },
+    {
+        "Name": "Onion Rings",
+        "Ingredients": ["Yellow Onions", "Flour", "Special Seasoning"],
+        "Description": "Sliced onions covered in bread crumbs."
+    }
+],
+    "Cold Sandwiches": [{
+        "Name": "Turkey Sandwich",
+        "Ingredients":["Bread", "Turkey Meat", "Cheese", "Mayo", "Lettuce"],
+        "Description": "Organic Mediterainan tender slices of turkey meat seasoned with Alaskan citrus rub"
+    }],
+    "Hot Sandwiches": [{
+        "Name": "Meatball Sub",
+        "Ingredients":["Bread", "Ground Beef", "Cheese", "Marinara Sauce", "Basil", "Olive Oil"],
+        "Description": "Irresistible %100 premium grass fed  ground beef dripping in sauce. "
+    }],
+    "Deserts":[{
+        "Name": "Oreo Cheese Cake",
+        "Ingredients":["Sugar", "Oreos", "Sour Cream", "Butter", "Eggs"],
+        "Description": ""
+    }],
+    "Drinks": []
 }
